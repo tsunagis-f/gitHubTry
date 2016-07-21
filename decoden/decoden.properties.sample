@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Decoden Properties</comment>
+<entry key="SERVER">http://125.101.10.182:3000/</entry>
+<entry key="POST_URL">http://125.101.10.182:3000/user/create_decoration_card</entry>
+</properties>

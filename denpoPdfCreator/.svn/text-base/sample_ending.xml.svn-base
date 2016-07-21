@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<purchases>
+  <purchase>
+    <id class="Integer">687155</id>
+    <order-id class="Integer">AAA_687155</order-id>
+    <site-type-id class="Integer">1</site-type-id>
+    <wished-at class="Date">2012-02-17 13:29:31</wished-at>
+    <celemony-at class="Date">2012-02-17 13:29:31</celemony-at>
+    <created-at class="Date">2012-02-13 13:31:52</created-at>
+    <postal-code class="String">553-8501</postal-code>
+    <state-name class="String">大阪府</state-name>
+    <address class="String">大阪市福島区福島</address>
+    <address-more class="String">6丁目3-8</address-more>
+    <arrive-name class="String">エスティ西梅田ビル8Ｆ</arrive-name>
+    <arrive-name-title class="Integer">2</arrive-name-title>
+    <tel class="String">00-0000-0000</tel>
+    <telegram-type-id class="Integer">1</telegram-type-id>
+    <telegram-layout-id class="Integer">10</telegram-layout-id>
+    <recipient-font-id class="Integer">1</recipient-font-id>
+    <recipient-font-size class="Integer">14</recipient-font-size>
+    <subscription-font-id class="Integer">1</subscription-font-id>
+    <subscription-font-size class="Integer">14</subscription-font-size>
+    <sender-font-id class="Integer">1</sender-font-id>
+    <sender-font-size class="Integer">14</sender-font-size>
+    <recipient class="String">半 角全　角---???ＷＡＳＨ收癡徹紋</recipient>
+    <recipient-title class="Integer">1</recipient-title>
+    <recipient2 class="String">山田花子</recipient2>
+    <recipient2-title class="Integer">1</recipient2-title>
+    <subscription class="String">本文１４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文２４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文４４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文５４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文６４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文７４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文８４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文９４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文０４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文１４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文２４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文４４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文２４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文２４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文４４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文５４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文６４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文７４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文８４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文９４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文０４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文１４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文２４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文４４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文２４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文４４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文５４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文６４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文７４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文８４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文９４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文０４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文１４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文２４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+本文４４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５
+</subscription>
+    <sender1 class="String">差出人情報1</sender1>
+    <sender2 class="String">差出人情報2</sender2>
+    <sender3 class="String">差出人情報3</sender3>
+    <sender4 class="String">差出人情報4</sender4>
+    <sender5 class="String">差出人情報5</sender5>
+    <sender6 class="String">差出人情報6</sender6>
+    <sender7 class="String">差出人情報7</sender7>
+    <sender1-read class="String">サシダシニンジョウホウイチ</sender1-read>
+    <sender2-read class="String">サシダシニンジョウホウニ</sender2-read>
+    <sender3-read class="String">サシダシニンジョウホウサン</sender3-read>
+    <sender4-read class="String">サシダシニンジョウホウヨン</sender4-read>
+    <sender5-read class="String">サシダシニンジョウホウゴ</sender5-read>
+    <sender6-read class="String">サシダシニンジョウホウロク</sender6-read>
+    <sender7-read class="String">サシダシニンジョウホウナナ</sender7-read>
+    <first-image class="String"></first-image>
+    <second-image class="String"></second-image>
+    <third-image class="String"></third-image>
+    <print-code-type class="String">qrcode</print-code-type>
+    <barcode-string class="String"></barcode-string>
+    <qrcode-string class="String"></qrcode-string>
+    <item-id class="Integer">8</item-id>
+    <item-code class="String">S-02</item-code>
+    <item-front-image class="String">s-02-f.jpg</item-front-image>
+    <user-login class="String"></user-login>
+    <speed-flag class="Boolean">true</speed-flag>
+    <member-delivery-type class="Integer">2</member-delivery-type>
+  </purchase>
+</purchases>

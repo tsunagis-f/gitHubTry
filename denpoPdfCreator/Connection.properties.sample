@@ -1,0 +1,4 @@
+driver=org.gjt.mm.mysql.Driver
+host=jdbc:mysql://localhost/newdenpo
+user=denpo
+password=denpo

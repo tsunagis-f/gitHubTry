@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<purchases>
+  <purchase>
+    <telegram-type-id type="integer">1</telegram-type-id>
+    <telegram-layout-id type="integer">6</telegram-layout-id>
+    <recipient-font-id type="integer">1</recipient-font-id>
+    <recipient-font-size type="integer">14</recipient-font-size>
+    <subscription-font-id type="integer">2</subscription-font-id>
+    <subscription-font-size type="integer">14</subscription-font-size>
+    <sender-font-id type="integer">3</sender-font-id>
+    <sender-font-size type="integer">14</sender-font-size>
+    <recipient-name>山田太郎</recipient-name>
+    <recipient>山田太郎</recipient>
+    <recipient-title type="integer">1</recipient-title>
+    <recipient2>山田花子</recipient2>
+    <recipient2-title type="integer">1</recipient2-title>
+    <subscription>本文1 本文2 本文3 本文4 本文5 本文6</subscription>
+    <sender1>差出人情報1</sender1>
+    <sender2>差出人情報2</sender2>
+    <sender3>差出人情報3</sender3>
+    <sender4>差出人情報4</sender4>
+    <sender5>差出人情報5</sender5>
+    <sender6>差出人情報6</sender6>
+    <sender7>差出人情報7</sender7>
+    <sender1-read>サシダシニンジョウホウイチ</sender1-read>
+    <sender2-read>サシダシニンジョウホウニ</sender2-read>
+    <sender3-read>サシダシニンジョウホウサン</sender3-read>
+    <sender4-read>サシダシニンジョウホウヨン</sender4-read>
+    <sender5-read>サシダシニンジョウホウゴ</sender5-read>
+    <sender6-read>サシダシニンジョウホウロク</sender6-read>
+    <sender7-read>サシダシニンジョウホウナナ</sender7-read>
+    <first-image>/uploads/test.png</first-image>
+    <second-image>/uploads/test.png</second-image>
+    <third-image>/uploads/test.png</third-image>
+  </purchase>
+</purchases>

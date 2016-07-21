@@ -1,0 +1,614 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: G7Jwl02Ds9e9LF/ISF5uL945vEs=
+Created-By: 1.6.0_27 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 339mZHweSikc+cPE5/iZ++HxWUA=
+
+Name: img/ok.gif
+SHA1-Digest: Ep2aFFBqtmGWRU5Z+hqpwS798vc=
+
+Name: img/sozai/user_sozai_btn2_rollover.gif
+SHA1-Digest: /LS0w0KoR/UdDQplbkXAqOZCmk0=
+
+Name: img/tool/front_press.gif
+SHA1-Digest: NlLJp4wp1zSzxLvPNkzpSJtcVpo=
+
+Name: img/tool/copy_disable.gif
+SHA1-Digest: QTFO3cEB08rMjdWMluWnJJqvWlo=
+
+Name: jp/ait/OpeLayer.class
+SHA1-Digest: mp0BF3Df3/HtAa3hwTpDtIQtiE0=
+
+Name: jp/ait/OpeTextInfo.class
+SHA1-Digest: 8zDE1w8Xw+QsrJAMYH4Dpef+KYY=
+
+Name: img/TopMenu/message_disable.gif
+SHA1-Digest: HhnEr1oh1Qxh1mLiM4qoNF+M43A=
+
+Name: jp/ait/SashidashiObject.class
+SHA1-Digest: Gvaf171rDPK8gwIBjNS8LEXRewk=
+
+Name: jp/ait/FontInfo.class
+SHA1-Digest: c8lMazKdU1x8EELaIHawLZ70HXg=
+
+Name: img/list_top.gif
+SHA1-Digest: TqJG/uCXBE5L1iFgZCAQAJDPDNE=
+
+Name: jp/ait/ViewPanel.class
+SHA1-Digest: SadPbbzlo4EVrWalon5lU0Hl+1w=
+
+Name: img/size.gif
+SHA1-Digest: Bzm1mknuLMOIDD+MjH8xqgpF1Gk=
+
+Name: img/sozai/torioki_set_press.gif
+SHA1-Digest: iEWMi5InZswaYdLVgiIBVCHFNUg=
+
+Name: img/list_bottom_press.gif
+SHA1-Digest: X+52p3tJh4ODJLpoSwAFhtlP8YE=
+
+Name: img/TopMenu/preview_rollover.gif
+SHA1-Digest: xmdfAjO1lhjYXIWbQyAh4iYWmQo=
+
+Name: img/sozai/torioki_ok_rollover.gif
+SHA1-Digest: 1kOnSO5nEU3NsI8gwcrT4RRQLw4=
+
+Name: img/TopMenu/save.gif
+SHA1-Digest: 23E+HYBA6nKTaTCPDED7RWUf1Vc=
+
+Name: img/TopMenu/sashidashi_disable.gif
+SHA1-Digest: AIZ41Yib7kwW6fIDeORdzjfvObM=
+
+Name: jp/ait/QuitAction.class
+SHA1-Digest: zwiHtdTCPS+EfK3fQd9ls/qNk18=
+
+Name: jp/ait/GPanel$MouseInput.class
+SHA1-Digest: hlN96+qfFXu7lW7MAxf3TYMtI8k=
+
+Name: img/list_text.gif
+SHA1-Digest: u0QIUr+cf2HytDntVzd/vwDwxuc=
+
+Name: img/TopMenu/user.gif
+SHA1-Digest: BlMz/AaUN4RF2W3wmVFWIIp6xvc=
+
+Name: img/tool/group.gif
+SHA1-Digest: J0C4aZjwYt1e4WE5Mket4JOxfD0=
+
+Name: img/sozai/user_sozai_btn1.gif
+SHA1-Digest: X0RzO5GWAPGxL0AP2v+URr/PCLE=
+
+Name: jp/ait/ProgressDialog.class
+SHA1-Digest: QDuYRK5aBdSJhZJQXtS8SY6Ck2k=
+
+Name: img/tool/copy.gif
+SHA1-Digest: cAjOY+y5YU5a9NxXWfI3/bepjmI=
+
+Name: img/size_press.gif
+SHA1-Digest: aX5kUPr+of4fTKrtaQRNANAUYTc=
+
+Name: jp/ait/Preview.class
+SHA1-Digest: QDp6lilrCAyy7Vnyx6hHvmzwDcY=
+
+Name: jp/ait/Operation.class
+SHA1-Digest: IwwocFmJiR7aW0vF17FqaOkDwPQ=
+
+Name: img/tool/delete_rollover.gif
+SHA1-Digest: ymZw9Li11sDG7SXmsXFAJQZyBvo=
+
+Name: img/sozai/torioki_set_rollover.gif
+SHA1-Digest: DXbNvMywV2rSYZsMxgWisIKbh78=
+
+Name: img/tool/group_disable.gif
+SHA1-Digest: JTOdhqCZesiqXgiZ3xqoCgRJxqw=
+
+Name: jp/ait/DocSize.class
+SHA1-Digest: Bz1R96S/D/jJJJ82cmZ90DLzt4M=
+
+Name: img/list_bottom_rollover.gif
+SHA1-Digest: /8kmPiBMObVeX5qCEqsJyy6MAXs=
+
+Name: img/end_disable.gif
+SHA1-Digest: 94TxEIdbnGf50hK4NEfdgVkQRew=
+
+Name: img/tool/back_press.gif
+SHA1-Digest: xZzQE317HdfrVq04dKApOEpbloA=
+
+Name: jp/ait/GPanel.class
+SHA1-Digest: jnaq1ei2P+mHwIWwOh2UN9Ze0bA=
+
+Name: img/TopMenu/basic_rollover.gif
+SHA1-Digest: BfpFuFKuYbzYMvpeJtMh3Xwsx2k=
+
+Name: img/tool/copy_press.gif
+SHA1-Digest: ndVZkRzEaUdI+TJ3izLI/w+CN0w=
+
+Name: img/tool/delete.gif
+SHA1-Digest: SYzUWkw0aa4jMJqUpi8zmdSC6x4=
+
+Name: img/list_sashidashi.gif
+SHA1-Digest: +AyFgoex29+ykWoSquzNYfaPJu4=
+
+Name: iTextAsian.jar
+SHA1-Digest: 4plaz5CB8H056CX7tG1xwIf8VUg=
+
+Name: img/tool/undo_rollover.gif
+SHA1-Digest: xKhCRygVY5w5Nk1wFskJNDIB7RM=
+
+Name: img/tool/rotate_press.gif
+SHA1-Digest: Ni0mW/jX5Xd4uLDEGX/30sQWCx8=
+
+Name: img/text_top.gif
+SHA1-Digest: kgy/tZmIbxSYA05pEbTAwOxpAI0=
+
+Name: img/TopMenu/preview_press.gif
+SHA1-Digest: 9lARKVaVmdEJS7Zq4uXSkDpqf04=
+
+Name: jp/ait/ImagePanel.class
+SHA1-Digest: 8vcMeW/NfvHWLwjzpE68aM2F7NA=
+
+Name: img/sozai/torioki_set_disable.gif
+SHA1-Digest: NLy+JbK69VdUnz1k1KY7qGsludI=
+
+Name: img/sozai/tab_base.gif
+SHA1-Digest: OtXS/lLnKy1R97o5e8b8xEbAw3g=
+
+Name: img/sozai/user_sozai_btn2.gif
+SHA1-Digest: bISK3GPt2Fx36SXv8hwDIMivVB8=
+
+Name: img/sozai/user_sozai_btn1_press.gif
+SHA1-Digest: 0KQI7Zzb+ykJr4GxJvENjF2HdHQ=
+
+Name: img/top_menu.gif
+SHA1-Digest: GuG8wpbeFYgJyPYa8XtNODJftus=
+
+Name: jp/ait/OpeDelete.class
+SHA1-Digest: ws7fFwsDGzqPrhpEAKKuUuewc7s=
+
+Name: img/TopMenu/message_press.gif
+SHA1-Digest: 0b6P+Dqm4IAD3PhmiajjKmZeZYU=
+
+Name: img/end_press.gif
+SHA1-Digest: OhhJtZ/Nomc1JqwaE77Nr9zmAX0=
+
+Name: jp/ait/OpeAddText.class
+SHA1-Digest: P0jc8bbK553Rnw+a9S8kIcH9Zb4=
+
+Name: jp/ait/Message.class
+SHA1-Digest: GwDDqLp4JFBNRsCqoTH0Y0XZDMA=
+
+Name: jp/ait/Thumbnail.class
+SHA1-Digest: oWcaEqyz8VzSKwvc1ocVQvpxBLs=
+
+Name: img/tool/ungroup.gif
+SHA1-Digest: 1V9rJVoFysSpl/xu2+zpKfjBUak=
+
+Name: img/select_doc.gif
+SHA1-Digest: qrJru9hwsWDCzJ7wmPnppJWTrDY=
+
+Name: img/TextInput/Thumbs.db
+SHA1-Digest: EQYPkuljZny6WG9g4l5dt5rsTf8=
+
+Name: img/tool/back_disable.gif
+SHA1-Digest: T0XzjVWHip+OUAega1Y41h5VzH4=
+
+Name: jp/ait/BasicSozai.class
+SHA1-Digest: j/xfeMfPaaNJTGDjLJkcgi652uo=
+
+Name: jp/ait/ToolPanel.class
+SHA1-Digest: VoxXH1AE4RXuDUMntXWRzYgJ8bw=
+
+Name: img/sozai/torioki_del.gif
+SHA1-Digest: hvXdEUdimoa9tcE1GfOCdRFe7Uo=
+
+Name: img/tool/delete_press.gif
+SHA1-Digest: PExr4MjQw0Kr0HHJ5XemG8jlOzQ=
+
+Name: jp/ait/StackEx.class
+SHA1-Digest: KaY3dv9p+rWJ/xc4Pa/efJYnpsE=
+
+Name: img/list_bottom_disable.gif
+SHA1-Digest: 2A6XinD96IyNN0mzONAia4mXfz4=
+
+Name: img/TopMenu/add.gif
+SHA1-Digest: xISHmd+YBAIL0tQpT/LZTTzO/hA=
+
+Name: img/ok_press.gif
+SHA1-Digest: fBc9+ezHsiRXuoefUl2h0lpW45g=
+
+Name: img/TopMenu/message_rollover.gif
+SHA1-Digest: UPfp5Wutt6HwB52NuYvo6I9mos4=
+
+Name: jp/ait/PDFCtrl.class
+SHA1-Digest: A8ma5uC2H3wLOWuRegtdhgn2TKU=
+
+Name: jp/ait/ToriokiBox.class
+SHA1-Digest: bCVaagRiTpiWkbClx0zI75JYlW8=
+
+Name: img/TopMenu/user_press.gif
+SHA1-Digest: 3jNOmhtQ1yyJgp4v2lESes0eAB4=
+
+Name: img/tool/ungroup_rollover.gif
+SHA1-Digest: 7Wtg7/elIrxO7GAT1qaFL9BuM1Q=
+
+Name: jp/ait/TopPanelImage.class
+SHA1-Digest: yHSNYt7ZzqlwmRdiqcJrSwxxEtY=
+
+Name: img/sozai/torioki_set.gif
+SHA1-Digest: 2I918cZpZOmsEY0LSIljgCRRKcY=
+
+Name: img/TopMenu/save_rollover.gif
+SHA1-Digest: /qqFHRuczZ3tqQPr9Xo3j9wj9Jg=
+
+Name: img/tool/undo.gif
+SHA1-Digest: ydTAXV3DNnsvGi69m6ei/0se6Gs=
+
+Name: jp/ait/OpeBack.class
+SHA1-Digest: EB+FzsEMf1wh9Z7473vK16FAy7A=
+
+Name: img/sozai/tab_back.gif
+SHA1-Digest: uTjQSzDIULwy7DDcUdFeLlxJOvg=
+
+Name: data/背景1.JPG
+SHA1-Digest: nwqsN8Fn6YkT9GX/HT+gOdcF+F0=
+
+Name: jp/ait/OpeSize.class
+SHA1-Digest: jFKH28KE1NwApfxrvL6Un2zjdKY=
+
+Name: jp/ait/GraphicsPanel.class
+SHA1-Digest: LVFFTg8+5vOlaJOhqvqxMQv1mfw=
+
+Name: decoden.properties
+SHA1-Digest: Z7LZ0SmgSEm7RX67+2fezXmYURg=
+
+Name: img/TopMenu/order.gif
+SHA1-Digest: Gvc2xU010zOdiYSINoSyVxy3MB4=
+
+Name: img/TopMenu/order_disable.gif
+SHA1-Digest: 9gShi8/+8fMSs9QDj3Jyt9KUpHE=
+
+Name: itext-2.0.5.jar
+SHA1-Digest: VE0rF+LRkis52sJnEvilOMIeJDA=
+
+Name: jp/ait/Torioki.class
+SHA1-Digest: ZRCS4p0LYuE3W5aw9Pknb4RZqbk=
+
+Name: jp/ait/TabButton.class
+SHA1-Digest: AeFQSZCpEhUkz89bye4sbApNpdE=
+
+Name: img/sozai/torioki_ok_disable.gif
+SHA1-Digest: LTZzma31PhYbkHYn6LLbE/m4/DU=
+
+Name: img/tool/group_rollover.gif
+SHA1-Digest: Gjnnhw2p0ylkaiTaiiVpjXwlsIE=
+
+Name: img/sozai/basic.gif
+SHA1-Digest: AMzFPCQ28b0xoXYFaZM/iz+hxQk=
+
+Name: jp/ait/LinkButton.class
+SHA1-Digest: jKWdyscWB/11SOfrqB/WhX/ZfhM=
+
+Name: img/sozai/torioki_ok.gif
+SHA1-Digest: CPTtH95zTKEcnlVPkZ7dfNX2EOg=
+
+Name: img/TopMenu/basic_press.gif
+SHA1-Digest: xjCgdMnrG7+94DB/GIS/iv4AbKQ=
+
+Name: img/tool/Thumbs.db
+SHA1-Digest: K7ZPDFRjWoNhwMtpRQeuY/7FykQ=
+
+Name: img/sozai/user_sozai_btn2_disable.gif
+SHA1-Digest: 69yJUKNlYSmdh11wIGmuQZHVbQw=
+
+Name: img/TopMenu/help_rollover.gif
+SHA1-Digest: 29s5quIoaplzBiuwQ3MvtR+6Pi4=
+
+Name: img/tool/rotate.gif
+SHA1-Digest: WySJFehZSOMy3gctllLyeUv9B+I=
+
+Name: img/TopMenu/message.gif
+SHA1-Digest: yCZSgyAI34LIFatVWgKpUGEFm9I=
+
+Name: jp/ait/LayerListListener.class
+SHA1-Digest: f2uW3LdbYOalg8etnwGd8wm4IL0=
+
+Name: jp/ait/OpeCopy.class
+SHA1-Digest: rIYcPK3mgqXoTyHwxo57ESRCJZc=
+
+Name: img/ok_disable.gif
+SHA1-Digest: ZdakdTOKFDCvugC4eFQzB1LunU8=
+
+Name: img/TopMenu/save_press.gif
+SHA1-Digest: Z6DxICQhYPUShOBXIY05ekRd0NY=
+
+Name: img/tool/rotate_rollover.gif
+SHA1-Digest: diqK5jXK3msbMh2FQsn6mFrSbJg=
+
+Name: jp/ait/LayerPanel.class
+SHA1-Digest: e6UDUEY1Op0ADyp7b4UAWytJ4u4=
+
+Name: img/size_rollover.gif
+SHA1-Digest: 9cE16+KjGKBs5LekbEkxuqYu6RE=
+
+Name: jp/ait/TopPanel.class
+SHA1-Digest: RiDcSjxOzkj8zpaIPUEyd8XeWL8=
+
+Name: jp/ait/PreviewView.class
+SHA1-Digest: dh1Hdqm681kLRVQCS+WMEFet7Ig=
+
+Name: img/sozai/torioki_ok_press.gif
+SHA1-Digest: Wja0SqgZ995ZR5gKwlBrCvzc3x0=
+
+Name: img/sozai/torioki.gif
+SHA1-Digest: 2zp2ExJJF0q0ILC1/JpptfDS++Y=
+
+Name: img/end_rollover.gif
+SHA1-Digest: FxSI5zjBw52LhaHkHRcGjdpDYls=
+
+Name: img/TopMenu/sashidashi.gif
+SHA1-Digest: MasTiEz5CqLqhCTommiLitXSnEs=
+
+Name: img/tool/delete_disable.gif
+SHA1-Digest: RFuSQ+wAUWlY01NRVu5zdXzfjuc=
+
+Name: img/tool_top.gif
+SHA1-Digest: LE19KYVyhhXOc4MhveTsmbaBtIE=
+
+Name: jp/ait/edenpo.class
+SHA1-Digest: k7ll7UeCwy3er2v+bZ0+qgCBsgs=
+
+Name: img/TopMenu/Thumbs.db
+SHA1-Digest: kyW9VniKYjr2EprCbWyuYj0VEes=
+
+Name: img/sozai/user.gif
+SHA1-Digest: P6EfcN99Xz4ZlV62s4okJES9Klg=
+
+Name: img/TopMenu/order_press.gif
+SHA1-Digest: 8j8CsuGbqUwAIWr6NjIrE1syH4c=
+
+Name: img/tool/rotate_disable.gif
+SHA1-Digest: J2E/rgyN7hdG6E8qZHN3FEjfbC0=
+
+Name: jp/ait/BorderEx.class
+SHA1-Digest: NIBU5oe9V/SOO8jQwMhd/6AlDk4=
+
+Name: jp/ait/OpeAddSashidashi.class
+SHA1-Digest: nxww6QYDlRU7WbUpmazYbqQDdVk=
+
+Name: img/list_bottom.gif
+SHA1-Digest: Bv59eWjlMCBh9kHGnxgYGaFikYs=
+
+Name: jp/ait/Utility.class
+SHA1-Digest: eXpNNfSo+xjkF0OX5hQwrvXxg8o=
+
+Name: img/TopMenu/save_disable.gif
+SHA1-Digest: MtTFFAyjrT7LJ3hmeR8upIvZIa8=
+
+Name: jp/ait/MyListAction.class
+SHA1-Digest: whYyN4AKfk1YWBo+17R8AM0gK7M=
+
+Name: jp/ait/OpeFront.class
+SHA1-Digest: 7YPrg1l5vssvsoi8PsbINLIPQkU=
+
+Name: img/tool/group_press.gif
+SHA1-Digest: rq3fL7CWrfMWM+qkR1n4ObnksHs=
+
+Name: img/tool/ungroup_press.gif
+SHA1-Digest: PNmqwcdXVpoVndpQOFH186VXNkw=
+
+Name: img/TextInput/background.gif
+SHA1-Digest: kNKfmU1EUBA0XD+ZFrsjOJvZ2nU=
+
+Name: jp/ait/OpeUnGroup.class
+SHA1-Digest: 6xEt7Db5ehTazyjo6M4uDhyTb+Q=
+
+Name: jp/ait/TabImage.class
+SHA1-Digest: RnkAwt7l4ffZmF0AeAhOaRVsCJE=
+
+Name: jp/ait/ImageObject.class
+SHA1-Digest: CtFJ6A8RaCR9Jy1+3phsOYjgVHY=
+
+Name: img/list_top_disable.gif
+SHA1-Digest: d2owjK6vzQsEDDMFl1otJNNJ7aQ=
+
+Name: img/sozai/torioki_set_rollover..gif
+SHA1-Digest: Zh6KwWmoSGUhHX0816zJc9CELJk=
+
+Name: img/list_top_rollover.gif
+SHA1-Digest: 4FEHrQkeC0rK2ABFB3fInFljpok=
+
+Name: img/TopMenu/basic_disable.gif
+SHA1-Digest: tWXcI8TKaCd1Jz3VApBSm2QmHpo=
+
+Name: img/TopMenu/add_press.gif
+SHA1-Digest: w0BCO8rK/Q/y6xN/FYdGzWqevbQ=
+
+Name: img/sozai/tab_base_select.gif
+SHA1-Digest: vdFtYkBW3MuOtQ1ZTIsrX3ziwcI=
+
+Name: img/TopMenu/help_disable.gif
+SHA1-Digest: GUO1e61Dc2zuoYXFtXxdKJNJn0Y=
+
+Name: jp/ait/OpeUndo.class
+SHA1-Digest: Rbb4ZSqyp0pcPpQcOsvfPCrvf3I=
+
+Name: img/tool/ungroup_disable.gif
+SHA1-Digest: ZJs2CvQQaSy8DmifHYhn+TthcHA=
+
+Name: img/sozai/torioki_del_disable.gif
+SHA1-Digest: NwwXudQa3BQ2p8o7/q1t7AUZZKg=
+
+Name: jp/ait/SelectPanel.class
+SHA1-Digest: GPInDlnzbb2g2Y5S6wow9FYB1Hs=
+
+Name: jp/ait/MyFileFilter.class
+SHA1-Digest: fWrP5l/yp6GW0LiPx9Vm7Rb2+cc=
+
+Name: img/TextInput/background2.gif
+SHA1-Digest: GppaiOmcDPnFlJ6ij+nWtu7DbJ4=
+
+Name: img/TopMenu/open_rollover.gif
+SHA1-Digest: Cm4FCYKf7WesKZFJVd4oVWqEIlE=
+
+Name: img/TopMenu/help.gif
+SHA1-Digest: EUTjioDn+teiKzka0Iba+LuebVA=
+
+Name: img/TopMenu/sashidashi_press.gif
+SHA1-Digest: xc8B+WYB0sAD5en4Dlw0TRbmFNI=
+
+Name: img/TextInput/menu_label.gif
+SHA1-Digest: a2ypYPYw75ZeRyzFIALAn29EqWI=
+
+Name: img/tool/copy_rollover.gif
+SHA1-Digest: kzKfmEr2IgzsgWRUY2E73mnUJxo=
+
+Name: img/TopMenu/open_press.gif
+SHA1-Digest: dmOOJu0AYqkTPmt4TyveSoTRFrg=
+
+Name: jp/ait/TextObject.class
+SHA1-Digest: VfYwvagpRkUsmtY+lACJcUY8m6Q=
+
+Name: img/tool/front.gif
+SHA1-Digest: rlIW5SylDqLD/nIDH0f0IxMsjyE=
+
+Name: img/ok_rollover.gif
+SHA1-Digest: BWME9APmlkUrkbBhoJNoIBlsPZQ=
+
+Name: jp/ait/UserSozai.class
+SHA1-Digest: K2zowwhTAu3C1hDJeXGfcLBaC30=
+
+Name: img/TopMenu/sashidashi_rollover.gif
+SHA1-Digest: ajSVkCOX1sVNSfpuSGaR880uBPQ=
+
+Name: img/tool/back.gif
+SHA1-Digest: 6Urf+eKYpPd7vv8zOKUgCMCUyDs=
+
+Name: img/sozai/torioki_del_press.gif
+SHA1-Digest: QgPBo/wZaM2uWVGwdSx/Kpiq0WA=
+
+Name: jp/ait/OpeAddImage.class
+SHA1-Digest: tBcN1Qq8F4JD8/2s9ODIm9I2Fx0=
+
+Name: img/icon.gif
+SHA1-Digest: UZ8ZJi4HT4gsxf/Ee6MEyFSIL4I=
+
+Name: img/tool/front_rollover.gif
+SHA1-Digest: RYrvRgTnHqfZOETzuyA7vmZJSSI=
+
+Name: img/list_group.gif
+SHA1-Digest: Zgk5YTGxHyyqtRdWZJc53YHHuUc=
+
+Name: jp/ait/BrowserLauncher.class
+SHA1-Digest: 3r7GDdMJHSNYjj7N0CF1f8+KjCQ=
+
+Name: img/tool/front_disable.gif
+SHA1-Digest: hVmGic0WaZ9XMrXvEDhpW/+A8z4=
+
+Name: img/TopMenu/preview.gif
+SHA1-Digest: XICH6OYyuZXK8gA2WLj8jeuu5Mc=
+
+Name: img/TopMenu/open_disable.gif
+SHA1-Digest: TVKAN/I45sHwWq24+6FuPTx/zQI=
+
+Name: img/size_disable.gif
+SHA1-Digest: O7kgbP7csk0xrXcb6a/7TWmomqA=
+
+Name: img/Thumbs.db
+SHA1-Digest: 3+FknoZ+eYpY7JldNva4bVFvDpM=
+
+Name: jp/ait/TextInputDialog.class
+SHA1-Digest: bfF7VzMyx+UNz0JMsCYhPuPcLrQ=
+
+Name: jp/ait/ColorMenuItem.class
+SHA1-Digest: YZtgYuzYdwqDvwO0ko15YnOj8tI=
+
+Name: img/sozai/user_sozai_btn2_press.gif
+SHA1-Digest: TdBpdg2hGToPoAWcA6Lq6SJdIEc=
+
+Name: img/sozai/Thumbs.db
+SHA1-Digest: GyVDIVkm/CQl109fSwfyd+8rLhg=
+
+Name: jp/ait/ImageViewPanel.class
+SHA1-Digest: TgGPQMZIufWIAWbNaVczQdLsiK4=
+
+Name: img/list_top_press.gif
+SHA1-Digest: tqRA8OM73eSIt9Y13sUh0EWGzy0=
+
+Name: jp/ait/OpeRotate.class
+SHA1-Digest: SSOkH6Si93gqMLA+aBES12D8G/4=
+
+Name: img/TopMenu/preview_disable.gif
+SHA1-Digest: ytrZ1FxSF4vP4bhDOe2UqOulmxU=
+
+Name: img/sozai/user_sozai_btn1_rollover.gif
+SHA1-Digest: 2nvQTj0J+id5w936G/MFBnopSmk=
+
+Name: jp/ait/GroupComparator.class
+SHA1-Digest: HjFHLDT7f/Q7eZXoB7InjOHEI4A=
+
+Name: jp/ait/Sozai.class
+SHA1-Digest: OjTbTQ+NPSEDFzPi4xLldhcwIoA=
+
+Name: img/tool/undo_disable.gif
+SHA1-Digest: MjnSYcQ1HcTDG/T87lMOO4C31Ec=
+
+Name: javaws.jar
+SHA1-Digest: ThYcrIbLK2MIIsZCta8i0Dz090A=
+
+Name: jp/ait/BoxPanel.class
+SHA1-Digest: KIg7knPMRD2ws//rlPRw5z1A5vI=
+
+Name: jp/ait/Group.class
+SHA1-Digest: 3+rAPajoj97tK21Y7J1MZtDAhcA=
+
+Name: img/TopMenu/add_disable.gif
+SHA1-Digest: Oxtg0yYm5K53iuPlqaqdbf/NVWM=
+
+Name: img/TopMenu/order_rollover.gif
+SHA1-Digest: bReU5R02ynXeEiiucS135WC7reo=
+
+Name: data/Thumbs.db
+SHA1-Digest: 4il57xg1PoqRmPkADkZRTTJ5Wh8=
+
+Name: img/TopMenu/user_disable.gif
+SHA1-Digest: zhqCXlKOSgRIdcPyPP8ACJkZZDM=
+
+Name: img/TopMenu/help_press.gif
+SHA1-Digest: EZnOrLmM5ZktUUmCSAGGWqaocqY=
+
+Name: img/end.gif
+SHA1-Digest: 3EWwLzObY0vanE71mitQGnz86WA=
+
+Name: img/TopMenu/basic.gif
+SHA1-Digest: J310H7dHjIHKy5uS9jwMOytSQTw=
+
+Name: jp/ait/TextPanel.class
+SHA1-Digest: M2CeHySGqBS9M7RlMMBmoYv2jms=
+
+Name: img/tool/undo_press.gif
+SHA1-Digest: vTi2VTbJ9+PGnOGxlbw8R18OgNo=
+
+Name: jp/ait/MyCellRenderer.class
+SHA1-Digest: 8+oP1wr41JZVfJ7gSjP9qg+8Bmk=
+
+Name: jp/ait/OpeMove.class
+SHA1-Digest: NG5bZnI9/NZOQklP/FU/y4vgD7w=
+
+Name: img/TopMenu/user_rollover.gif
+SHA1-Digest: ydedB77X8NvpL48XWi8hm4Br6jQ=
+
+Name: img/TopMenu/add_rollover.gif
+SHA1-Digest: 2alvQUiwYSTW6Iwicp5UmeXhJzA=
+
+Name: img/TopMenu/open.gif
+SHA1-Digest: d+pd4YflJrOcQvKiJIoZH3Pnl/M=
+
+Name: img/sozai/torioki_del_rollover.gif
+SHA1-Digest: BxAIXGo0MvKKToLugUo9kG1RDGc=
+
+Name: img/sozai/add.gif
+SHA1-Digest: r42YKhjLSrBDM/brnvJ2QDUlBUQ=
+
+Name: img/tool/back_rollover.gif
+SHA1-Digest: IjL+WSBS3UFDQU/p7OSgyMy7Iqc=
+
+Name: jp/ait/OpeGroup.class
+SHA1-Digest: 1kWEZ3LUIrLe7VPFSXV9HJtC96M=
+
